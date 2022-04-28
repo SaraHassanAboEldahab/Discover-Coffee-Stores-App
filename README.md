@@ -1,4 +1,11 @@
+## Discription
+
 This is my first [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+##Tools
+- React.js
+- Next.js
+- CSS Modules
 
 ## Getting Started
 
